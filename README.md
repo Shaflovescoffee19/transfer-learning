@@ -61,7 +61,7 @@ All layers unfrozen and updated on target data with a very low learning rate (0.
 | File | Description |
 |------|-------------|
 | `plot1_auc_comparison.png` | AUC for all four conditions + training loss curves |
-| `plot2_learning_curves.png` | AUC vs training set size — scratch vs transfer |
+| `plot2_learning_curves.png` | AUC vs training set size -> scratch vs transfer |
 | `plot3_feature_transfer.png` | Which features are shared, partial, or non-transferable |
 | `plot4_freezing_strategies.png` | AUC across five different layer-freezing configurations |
 
